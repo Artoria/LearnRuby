@@ -1,3 +1,17 @@
+## 安装和使用Ruby
+### 安装
+  可以从http://www.ruby-lang.org/zh_cn/downloads/获取能直接使用的Ruby，以及用来安装的Ruby源码
+  windows下也可以从http://rubyinstaller.org/直接获取一键安装包和相关的开发工具
+  
+###使用
+  这里仅仅先提一下交互方式，安装好Ruby之后，
+   linux下应当是输入irb，
+   windows下直接从程序组找到Interactive Ruby之类的项目启动就行了。
+   然后输入puts "Hello world"，马上运行一行程序获得结果：
+ `irb(main):001:0> puts "Hello world"
+Hello world
+=> nil`
+  
 ### W and H's 为什么学Ruby，怎么学Ruby，在哪里学Ruby，什么时候学Ruby，谁在学Ruby
 学Ruby有很多用处，
 
