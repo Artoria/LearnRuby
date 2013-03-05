@@ -8,9 +8,11 @@
     linux下应当是输入irb，
     windows下直接从程序组找到Interactive Ruby之类的项目启动就行了。
     然后输入puts "Hello world"，马上运行一行程序获得结果：
-(({irb(main):001:0 puts "Hello world"
- Hello world
- => nil}))
+
+    irb(main):001:0 puts "Hello world"
+    Hello world
+    => nil
+
 === W and H's 为什么学Ruby，怎么学Ruby，在哪里学Ruby，什么时候学Ruby，谁在学Ruby
 
   学Ruby有很多用处，
