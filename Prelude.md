@@ -9,8 +9,10 @@ Windows 下也可以从 http://rubyinstaller.org/ 直接获取一键安装包和
 使用
 -----
 这里仅仅先提一下交互方式，安装好Ruby之后，
+
  * Linux 下应当是输入 `irb`
  * Windows 下直接从程序组找到 Interactive Ruby 之类的项目启动就行了。
+
 然后输入`puts "Hello world"`，马上运行一行程序获得结果：
 ```ruby
 irb(main):001> puts "Hello world"
