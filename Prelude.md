@@ -1,11 +1,10 @@
-<pre>
 ## 安装和使用Ruby
 ### 安装
   可以从http://www.ruby-lang.org/zh_cn/downloads/获取能直接使用的Ruby，以及用来安装的Ruby源码
   windows下也可以从http://rubyinstaller.org/直接获取一键安装包和相关的开发工具
   
 ###使用
-
+<pre>
   这里仅仅先提一下交互方式，安装好Ruby之后，
    linux下应当是输入irb，
    windows下直接从程序组找到Interactive Ruby之类的项目启动就行了。
@@ -13,8 +12,9 @@
  `irb(main):001:0> puts "Hello world"
 Hello world
 => nil`
-
+</pre>
 ### W and H's 为什么学Ruby，怎么学Ruby，在哪里学Ruby，什么时候学Ruby，谁在学Ruby
+<pre>
 学Ruby有很多用处，
 
 小到可以用来做日常的一些处理任务，比如批量重命名文件、批量图片特效等
