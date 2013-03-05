@@ -1,21 +1,21 @@
-== 安装和使用Ruby
-=== 安装
-   可以从http://www.ruby-lang.org/zh_cn/downloads/获取能直接使用的Ruby，以及用来安装的Ruby源码
-   windows下也可以从http://rubyinstaller.org/直接获取一键安装包和相关的开发工具
+= 安装和使用 Ruby
+== 安装
+可以从 http://www.ruby-lang.org/zh_cn/downloads/ 获取能直接使用的 Ruby，以及用来安装的 Ruby 源码。
+Windows 下也可以从 http://rubyinstaller.org/ 直接获取一键安装包和相关的开发工具。
   
-===使用
-   这里仅仅先提一下交互方式，安装好Ruby之后，
-    linux下应当是输入irb，
-    windows下直接从程序组找到Interactive Ruby之类的项目启动就行了。
-    然后输入puts "Hello world"，马上运行一行程序获得结果：
+== 使用
+这里仅仅先提一下交互方式，安装好Ruby之后，
+ * Linux 下应当是输入 `irb`
+ * Windows 下直接从程序组找到 Interactive Ruby 之类的项目启动就行了。
+然后输入`puts "Hello world"`，马上运行一行程序获得结果：
+```ruby
+irb(main):001:0 puts "Hello world"
+Hello world
+=> nil
+```
+== W and H's 为什么学Ruby，怎么学Ruby，在哪里学Ruby，什么时候学Ruby，谁在学Ruby
 
-    irb(main):001:0 puts "Hello world"
-    Hello world
-    => nil
-
-=== W and H's 为什么学Ruby，怎么学Ruby，在哪里学Ruby，什么时候学Ruby，谁在学Ruby
-
-  学Ruby有很多用处，
+  学 Ruby 有很多用处，
  小到可以用来做日常的一些处理任务，比如批量重命名文件、批量图片特效等
  中等到可以作为编程中的胶水语言，类似于python在不同编程项目中的地位
  大到可以做独立的网站框架，如Ruby On Rails(ROR), Sinatra
